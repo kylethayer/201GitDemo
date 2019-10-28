@@ -6,3 +6,4 @@ Chop the following:
 * bell peppers
 * salt
 * corn
+* jalapenos
