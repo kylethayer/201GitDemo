@@ -2,7 +2,7 @@
 
 Salsa recipe:
 Chop the following:
-* tomatoes
+* tomatoes (medium pieces)
 * bell peppers
 * salt
 * corn
