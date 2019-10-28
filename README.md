@@ -7,3 +7,4 @@ Chop the following:
 * salt
 * corn
 * onions
+* Mangos
